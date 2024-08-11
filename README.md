@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ADITYAMAURYA1
+- 👋 Hi, I’m ADITYA MAURYA
 - 👀 I’m interested in building tools
 - 🌱 I’m currently learning bug hunting
 - 📫 How to reach me adityamaurya1@hotmail.com
